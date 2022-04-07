@@ -13,6 +13,7 @@ THE ONE RULE FOR THIS CHALLENGE: YOU ARE NOT ALLOWED TO ACCESS THE DATABASE DIRE
 Necessary Tools Installed
 - Git
 - Golang
+- Postman
 
 To run this program, clone this repository to your local machine, navigate to this repository in your working directory, and run following command in your terminal:
 ```
